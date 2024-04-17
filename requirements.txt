@@ -1,2 +1,4 @@
 llmware==0.2.8
 transformers==4.39.3
+Flask==3.0.3
+Flask-RESTful==0.3.10
