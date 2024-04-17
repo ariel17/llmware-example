@@ -1,0 +1,2 @@
+llmware==0.2.8
+transformers==4.39.3
